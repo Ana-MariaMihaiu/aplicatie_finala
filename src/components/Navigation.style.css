@@ -1,0 +1,17 @@
+.navbar_product {
+    height: 6vh;
+    width: 100vw;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar_product a{
+    color: darkslategray;
+    font-size: 24px;
+    text-decoration: none;
+    margin: 10px;
+    
+
+}
